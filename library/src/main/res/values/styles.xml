@@ -28,10 +28,10 @@
         <item name="android:paddingLeft">2dp</item>
         <item name="android:paddingRight">2dp</item>
         <item name="shape">rect</item>
-        <item name="padding_left">3dp</item>
-        <item name="padding_right">3dp</item>
-        <item name="padding_top">4dp</item>
-        <item name="padding_bottom">4dp</item>
+        <item name="padding_left">5dp</item>
+        <item name="padding_right">5dp</item>
+        <item name="padding_top">5dp</item>
+        <item name="padding_bottom">5dp</item>
 
         <item name="selected_color">#30CCE5</item>
         <item name="unselected_color">#333333</item>
