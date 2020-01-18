@@ -79,6 +79,7 @@ public abstract class BaseSliderView {
      */
     public BaseSliderView errorDisappear(boolean disappear){
         mErrorDisappear = disappear;
+        Log.e("AIS", "disappear = " + disappear);
         return this;
     }
 
