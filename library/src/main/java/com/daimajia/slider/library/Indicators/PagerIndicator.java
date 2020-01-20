@@ -255,9 +255,6 @@ public class PagerIndicator extends LinearLayout implements ViewPagerEx.OnPageCh
             float w = width;
             float h = height;
 
-            Log.e("AIS", "x = " + x);
-            Log.e("AIS", "y = " + y);
-
             if(unit == Unit.DP){
                 w = pxFromDp(width);
                 h = pxFromDp(height);
